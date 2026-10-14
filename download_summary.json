@@ -1,0 +1,444 @@
+{
+  "stats": {
+    "total": 62,
+    "successful": 62,
+    "failed": 0,
+    "skipped": 0
+  },
+  "records": [
+    {
+      "index": 1,
+      "title": "IUT IUPC 2026",
+      "folder": "01 - IUT IUPC 2026",
+      "success": true,
+      "details": "Direct/Codeforces PDF (772203 bytes, is_pdf=True)"
+    },
+    {
+      "index": 2,
+      "title": "SUST IUPC 2026",
+      "folder": "02 - SUST IUPC 2026",
+      "success": true,
+      "details": "Direct/Codeforces PDF (398384 bytes, is_pdf=True)"
+    },
+    {
+      "index": 3,
+      "title": "DUET IUPC 2026",
+      "folder": "03 - DUET IUPC 2026",
+      "success": true,
+      "details": "Direct/Codeforces PDF (304795 bytes, is_pdf=True)"
+    },
+    {
+      "index": 4,
+      "title": "NSU IUPC 2026",
+      "folder": "04 - NSU IUPC 2026",
+      "success": true,
+      "details": "Direct/Codeforces PDF (1026295 bytes, is_pdf=True)"
+    },
+    {
+      "index": 5,
+      "title": "NDUB IUPC 2026",
+      "folder": "05 - NDUB IUPC 2026",
+      "success": true,
+      "details": "Direct/Codeforces PDF (348576 bytes, is_pdf=True)"
+    },
+    {
+      "index": 6,
+      "title": "BUET IUPC 2026",
+      "folder": "06 - BUET IUPC 2026",
+      "success": true,
+      "details": "Direct/Codeforces PDF (596271 bytes, is_pdf=True)"
+    },
+    {
+      "index": 7,
+      "title": "ICPC Asia Dhaka Regional 2025",
+      "folder": "07 - ICPC Asia Dhaka Regional 2025",
+      "success": true,
+      "details": "Direct/Codeforces PDF (3131916 bytes, is_pdf=True)"
+    },
+    {
+      "index": 8,
+      "title": "CUET IUPC 2025",
+      "folder": "08 - CUET IUPC 2025",
+      "success": true,
+      "details": "Google Drive PDF (1008832 bytes, is_pdf=True)"
+    },
+    {
+      "index": 9,
+      "title": "Metropolitan University Inter University Programming Contest 2025",
+      "folder": "09 - Metropolitan University Inter University Programming Contest 2025",
+      "success": true,
+      "details": "Direct/Codeforces PDF (318290 bytes, is_pdf=True)"
+    },
+    {
+      "index": 10,
+      "title": "ICPC DHAKA 2025 ONLINE PRELIMINARY",
+      "folder": "10 - ICPC DHAKA 2025 ONLINE PRELIMINARY",
+      "success": true,
+      "details": "GitHub statements.pdf downloaded (193100 bytes)"
+    },
+    {
+      "index": 11,
+      "title": "Uttara University Inter-University Programming Contest 2025",
+      "folder": "11 - Uttara University Inter-University Programming Contest 2025",
+      "success": true,
+      "details": "Google Drive PDF (854123 bytes, is_pdf=True)"
+    },
+    {
+      "index": 12,
+      "title": "Betopia Group Presents DUET Inter University Programming Contest 2025",
+      "folder": "12 - Betopia Group Presents DUET Inter University Programming Contest 2025",
+      "success": true,
+      "details": "Google Drive PDF (436197 bytes, is_pdf=True)"
+    },
+    {
+      "index": 13,
+      "title": "MTB Presents AUST Inter University Programming Contest 2025",
+      "folder": "13 - MTB Presents AUST Inter University Programming Contest 2025",
+      "success": true,
+      "details": "Direct/Codeforces PDF (413007 bytes, is_pdf=True)"
+    },
+    {
+      "index": 14,
+      "title": "UIU INTER-UNIVERSITY PROGRAMMING CONTEST 2025",
+      "folder": "14 - UIU INTER-UNIVERSITY PROGRAMMING CONTEST 2025",
+      "success": true,
+      "details": "GitHub raw PDF (1276055 bytes, is_pdf=True)"
+    },
+    {
+      "index": 15,
+      "title": "MIAKI PRESENTS KUET IUPC ONSITE 2025",
+      "folder": "15 - MIAKI PRESENTS KUET IUPC ONSITE 2025",
+      "success": true,
+      "details": "Google Drive PDF (2221463 bytes, is_pdf=True)"
+    },
+    {
+      "index": 16,
+      "title": "ICPC Dhaka Regional Site 2024",
+      "folder": "16 - ICPC Dhaka Regional Site 2024",
+      "success": true,
+      "details": "GitHub raw PDF (993350 bytes, is_pdf=True)"
+    },
+    {
+      "index": 17,
+      "title": "ICPC PRELIMINARY DHAKA SITE 2024",
+      "folder": "17 - ICPC PRELIMINARY DHAKA SITE 2024",
+      "success": true,
+      "details": "GitHub 2024 Preli statements downloaded (172464 bytes)"
+    },
+    {
+      "index": 18,
+      "title": "Inter University Programming Contest | United Group Presents BUET CSE Fest 2024",
+      "folder": "18 - Inter University Programming Contest _ United Group Presents BUET CSE Fest 2024",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 19,
+      "title": "IUT 11th National ICT Fest Programming Contest 2024",
+      "folder": "19 - IUT 11th National ICT Fest Programming Contest 2024",
+      "success": true,
+      "details": "Toph: 11/11 problems downloaded"
+    },
+    {
+      "index": 20,
+      "title": "NCPC Onsite 2023 Hosted by JU",
+      "folder": "20 - NCPC Onsite 2023 Hosted by JU",
+      "success": true,
+      "details": "Google Doc exported as PDF (1215369 bytes)"
+    },
+    {
+      "index": 21,
+      "title": "NCPC Preliminary JU 2023",
+      "folder": "21 - NCPC Preliminary JU 2023",
+      "success": true,
+      "details": "Google Drive PDF downloaded (238583 bytes)"
+    },
+    {
+      "index": 22,
+      "title": "Kite Games Presents Inter University Programming Contest - SUST CSE Carnival 2024",
+      "folder": "22 - Kite Games Presents Inter University Programming Contest - SUST CSE Carnival 2024",
+      "success": true,
+      "details": "Downloaded all problems successfully"
+    },
+    {
+      "index": 23,
+      "title": "CUET Inter University Programming Contest CodeStorm 1.0",
+      "folder": "23 - CUET Inter University Programming Contest CodeStorm 1.0",
+      "success": true,
+      "details": "Downloaded all problems successfully"
+    },
+    {
+      "index": 24,
+      "title": "ICPC Dhaka Regional Site 2023",
+      "folder": "24 - ICPC Dhaka Regional Site 2023",
+      "success": true,
+      "details": "Google Drive PDF (2970916 bytes, is_pdf=True)"
+    },
+    {
+      "index": 25,
+      "title": "ICPC Dhaka Regional Preliminary Contest 2023",
+      "folder": "25 - ICPC Dhaka Regional Preliminary Contest 2023",
+      "success": true,
+      "details": "Notion: Problems and editorial extracted"
+    },
+    {
+      "index": 26,
+      "title": "CoU-BRACNet Inter University Programming Contest 2023",
+      "folder": "26 - CoU-BRACNet Inter University Programming Contest 2023",
+      "success": true,
+      "details": "Toph: 9/9 problems downloaded"
+    },
+    {
+      "index": 27,
+      "title": "BUET Inter University Programming Contest 2023",
+      "folder": "27 - BUET Inter University Programming Contest 2023",
+      "success": true,
+      "details": "GitHub raw PDF (230966 bytes, is_pdf=True)"
+    },
+    {
+      "index": 28,
+      "title": "ICPC ASIA DHAKA REGIONAL CONTEST 2022",
+      "folder": "28 - ICPC ASIA DHAKA REGIONAL CONTEST 2022",
+      "success": true,
+      "details": "Google Drive PDF (6145088 bytes, is_pdf=True)"
+    },
+    {
+      "index": 29,
+      "title": "ICPC Dhaka Regional Preliminary Contest 2022",
+      "folder": "29 - ICPC Dhaka Regional Preliminary Contest 2022",
+      "success": true,
+      "details": "Google Drive PDF (291445 bytes, is_pdf=True)"
+    },
+    {
+      "index": 30,
+      "title": "Cefalo SUST Inter University Programming Contest 2023",
+      "folder": "30 - Cefalo SUST Inter University Programming Contest 2023",
+      "success": true,
+      "details": "Toph: 10/10 problems downloaded"
+    },
+    {
+      "index": 31,
+      "title": "ICPC ASIA DHAKA REGIONAL CONTEST 2021",
+      "folder": "31 - ICPC ASIA DHAKA REGIONAL CONTEST 2021",
+      "success": true,
+      "details": "Google Drive PDF (528601 bytes, is_pdf=True)"
+    },
+    {
+      "index": 32,
+      "title": "ICPC Dhaka Regional Preliminary 2021",
+      "folder": "32 - ICPC Dhaka Regional Preliminary 2021",
+      "success": true,
+      "details": "Google Drive PDF (251511 bytes, is_pdf=True)"
+    },
+    {
+      "index": 33,
+      "title": "BUET Inter University Programming Contest 2022",
+      "folder": "33 - BUET Inter University Programming Contest 2022",
+      "success": true,
+      "details": "Toph: 10/10 problems downloaded"
+    },
+    {
+      "index": 34,
+      "title": "AUST IUPC 2022",
+      "folder": "34 - AUST IUPC 2022",
+      "success": true,
+      "details": "Google Drive PDF (14594752 bytes, is_pdf=True)"
+    },
+    {
+      "index": 35,
+      "title": "RUET IUPC 2022",
+      "folder": "35 - RUET IUPC 2022",
+      "success": true,
+      "details": "Google Drive PDF (6239091 bytes, is_pdf=True)"
+    },
+    {
+      "index": 36,
+      "title": "ICPC Asia Dhaka Regional Contest 2020",
+      "folder": "36 - ICPC Asia Dhaka Regional Contest 2020",
+      "success": true,
+      "details": "Google Drive PDF (3338692 bytes, is_pdf=True)"
+    },
+    {
+      "index": 37,
+      "title": "ICPC Dhaka Regional Preliminary 2020",
+      "folder": "37 - ICPC Dhaka Regional Preliminary 2020",
+      "success": true,
+      "details": "Google Drive PDF (3206843 bytes, is_pdf=True)"
+    },
+    {
+      "index": 38,
+      "title": "MIST-National Collegiate Programming Contest, 2020",
+      "folder": "38 - MIST-National Collegiate Programming Contest, 2020",
+      "success": true,
+      "details": "Google Drive PDF (1389082 bytes, is_pdf=True)"
+    },
+    {
+      "index": 39,
+      "title": "2019 ICPC Dhaka Regional Contest",
+      "folder": "39 - 2019 ICPC Dhaka Regional Contest",
+      "success": true,
+      "details": "Google Drive PDF (1118936 bytes, is_pdf=True)"
+    },
+    {
+      "index": 40,
+      "title": "NSU Cybernauts National Programming Contest 2019",
+      "folder": "40 - NSU Cybernauts National Programming Contest 2019",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 41,
+      "title": "LU CSE Carnival 2019 Inter University Programming Contest",
+      "folder": "41 - LU CSE Carnival 2019 Inter University Programming Contest",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 42,
+      "title": "2019 ICPC Dhaka Regional Preliminary Contest",
+      "folder": "42 - 2019 ICPC Dhaka Regional Preliminary Contest",
+      "success": true,
+      "details": "Google Drive PDF (599653 bytes, is_pdf=True)"
+    },
+    {
+      "index": 43,
+      "title": "RUET IUPC 2019",
+      "folder": "43 - RUET IUPC 2019",
+      "success": true,
+      "details": "GitHub raw PDF (789850 bytes, is_pdf=True)"
+    },
+    {
+      "index": 44,
+      "title": "DUET IUPC 2019",
+      "folder": "44 - DUET IUPC 2019",
+      "success": true,
+      "details": "GitHub raw PDF (832056 bytes, is_pdf=True)"
+    },
+    {
+      "index": 45,
+      "title": "SUST Inter University Programming Contest 2019",
+      "folder": "45 - SUST Inter University Programming Contest 2019",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 46,
+      "title": "BUP IUPC 2019",
+      "folder": "46 - BUP IUPC 2019",
+      "success": true,
+      "details": "GitHub raw PDF (7917963 bytes, is_pdf=True)"
+    },
+    {
+      "index": 47,
+      "title": "SUB IUPC 2019",
+      "folder": "47 - SUB IUPC 2019",
+      "success": true,
+      "details": "GitHub raw PDF (1047475 bytes, is_pdf=True)"
+    },
+    {
+      "index": 48,
+      "title": "MIST Inter University Programming Contest 2019",
+      "folder": "48 - MIST Inter University Programming Contest 2019",
+      "success": true,
+      "details": "Direct/Codeforces PDF (3519540 bytes, is_pdf=True)"
+    },
+    {
+      "index": 49,
+      "title": "MIST IUPC 2019",
+      "folder": "49 - MIST IUPC 2019",
+      "success": true,
+      "details": "GitHub raw PDF (3519540 bytes, is_pdf=True)"
+    },
+    {
+      "index": 50,
+      "title": "BUET CSE Fest 2019 Inter University Programming Contest",
+      "folder": "50 - BUET CSE Fest 2019 Inter University Programming Contest",
+      "success": true,
+      "details": "Toph: 11/11 problems downloaded"
+    },
+    {
+      "index": 51,
+      "title": "2018 ACM-ICPC, Asia Dhaka Regional Contest",
+      "folder": "51 - 2018 ACM-ICPC, Asia Dhaka Regional Contest",
+      "success": true,
+      "details": "Direct/Codeforces PDF (864953 bytes, is_pdf=True)"
+    },
+    {
+      "index": 52,
+      "title": "2018 ACM-ICPC, Asia Dhaka Regional Preliminary Contest",
+      "folder": "52 - 2018 ACM-ICPC, Asia Dhaka Regional Preliminary Contest",
+      "success": true,
+      "details": "Google Drive PDF (471080 bytes, is_pdf=True)"
+    },
+    {
+      "index": 53,
+      "title": "IUBAT NCPC 2018",
+      "folder": "53 - IUBAT NCPC 2018",
+      "success": true,
+      "details": "GitHub raw PDF (18479900 bytes, is_pdf=True)"
+    },
+    {
+      "index": 54,
+      "title": "1st AUB Inter University Programming Contest 2018",
+      "folder": "54 - 1st AUB Inter University Programming Contest 2018",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 55,
+      "title": "BUET Inter University Programming Contest 2018",
+      "folder": "55 - BUET Inter University Programming Contest 2018",
+      "success": true,
+      "details": "Toph: 13/13 problems downloaded"
+    },
+    {
+      "index": 56,
+      "title": "Cybernauts NPC 2018",
+      "folder": "56 - Cybernauts NPC 2018",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 57,
+      "title": "IUT 9th ICT Fest 2017 Programming Contest",
+      "folder": "57 - IUT 9th ICT Fest 2017 Programming Contest",
+      "success": true,
+      "details": "Toph: 11/11 problems downloaded"
+    },
+    {
+      "index": 58,
+      "title": "2017 ICPC Dhaka Regional",
+      "folder": "58 - 2017 ICPC Dhaka Regional",
+      "success": true,
+      "details": "Google Drive PDF (1423150 bytes, is_pdf=True)"
+    },
+    {
+      "index": 59,
+      "title": "2017 ICPC Dhaka Regional Preliminary",
+      "folder": "59 - 2017 ICPC Dhaka Regional Preliminary",
+      "success": true,
+      "details": "Google Drive PDF (812607 bytes, is_pdf=True)"
+    },
+    {
+      "index": 60,
+      "title": "SUST Inter University Programming Contest 2017",
+      "folder": "60 - SUST Inter University Programming Contest 2017",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    },
+    {
+      "index": 61,
+      "title": "LU Inter University Programming Contest 2017",
+      "folder": "61 - LU Inter University Programming Contest 2017",
+      "success": true,
+      "details": "Toph: 10/10 problems downloaded"
+    },
+    {
+      "index": 62,
+      "title": "SUB Inter University Programming Contest 2017",
+      "folder": "62 - SUB Inter University Programming Contest 2017",
+      "success": true,
+      "details": "Toph: 12/12 problems downloaded"
+    }
+  ]
+}
